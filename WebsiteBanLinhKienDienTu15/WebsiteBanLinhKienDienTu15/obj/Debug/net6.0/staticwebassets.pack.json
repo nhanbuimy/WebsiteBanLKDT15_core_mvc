@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteBanLinhKienDienTu15.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteBanLinhKienDienTu15.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutO\\css\\style.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutO\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\language.png",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\language.png"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\logo.png",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\LayoutO\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\main.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\LayoutO\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutO\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebsiteBanLinhKienDienTu15.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebsiteBanLinhKienDienTu15.props",
+      "PackagePath": "build\\WebsiteBanLinhKienDienTu15.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteBanLinhKienDienTu15.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteBanLinhKienDienTu15.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebsiteBanLinhKienDienTu15.props",
+      "PackagePath": "buildTransitive\\WebsiteBanLinhKienDienTu15.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
