@@ -2,4 +2,15 @@
     ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_LayoutOgani.cshtml";
 }
-<h1>Chào mừng bạn đến với website bán linh kiện điện tử</h1>
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<SanPham>
+@foreach(var item in Model)
+{
+    @await Html.PartialAsync("PartialSanPham",item)
+}
+
+<div class="product__pagination conpage">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+
+

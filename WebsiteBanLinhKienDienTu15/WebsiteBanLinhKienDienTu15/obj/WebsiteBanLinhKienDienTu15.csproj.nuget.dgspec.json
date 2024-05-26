@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj": {}
+    "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj": {}
   },
   "projects": {
-    "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj": {
+    "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj",
+        "projectUniqueName": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj",
         "projectName": "WebsiteBanLinhKienDienTu15",
-        "projectPath": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj",
+        "projectPath": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\obj\\",
+        "outputPath": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,26 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.30, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "X.PagedList.Mvc": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "X.PagedList.Web.Common": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

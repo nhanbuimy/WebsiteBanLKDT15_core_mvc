@@ -69,8 +69,6 @@ namespace WebsiteBanLinhKienDienTu15.Models
             {
                 entity.ToTable("CTDH");
 
-                entity.Property(e => e.GiaSp).HasColumnName("GiaSP");
-
                 entity.Property(e => e.IdDh).HasColumnName("IdDH");
 
                 entity.Property(e => e.IdSp).HasColumnName("IdSP");
@@ -91,8 +89,6 @@ namespace WebsiteBanLinhKienDienTu15.Models
             modelBuilder.Entity<DonHang>(entity =>
             {
                 entity.ToTable("DonHang");
-
-                entity.Property(e => e.GiaSp).HasColumnName("GiaSP");
 
                 entity.Property(e => e.IdKh).HasColumnName("IdKH");
 

@@ -9,47 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebsiteBanLinhKienDienTu15
 build_property.RootNamespace = WebsiteBanLinhKienDienTu15
-build_property.ProjectDir = D:\BTL ltcsdl\WebsiteBanLinhKienDienTu15\WebsiteBanLinhKienDienTu15\
+build_property.ProjectDir = D:\WebsiteBanLKDT15_core_mvc\WebsiteBanLinhKienDienTu15\WebsiteBanLinhKienDienTu15\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\BTL ltcsdl\WebsiteBanLinhKienDienTu15\WebsiteBanLinhKienDienTu15
+build_property.MSBuildProjectDirectory = D:\WebsiteBanLKDT15_core_mvc\WebsiteBanLinhKienDienTu15\WebsiteBanLinhKienDienTu15
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/Index.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Areas/Admin/Views/HomeAdmin/DSSP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERTU1AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/ChiTietSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0U2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/Privacy.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/Error.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Home/SanPhamTheoLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYW5QaGFtVGhlb0xvYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/Components/LSPMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTFNQTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_LayoutIndex.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/PartialSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_LayoutIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_LayoutOgani.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_LayoutOgani.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPZ2FuaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/_ViewImports.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/_ViewStart.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTL ltcsdl/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_Layout.cshtml]
+[D:/WebsiteBanLKDT15_core_mvc/WebsiteBanLinhKienDienTu15/WebsiteBanLinhKienDienTu15/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v8fxunn4hu

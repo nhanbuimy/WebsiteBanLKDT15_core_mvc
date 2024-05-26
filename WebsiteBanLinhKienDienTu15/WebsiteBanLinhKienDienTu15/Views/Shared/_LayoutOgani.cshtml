@@ -8,7 +8,7 @@
     <meta name="keywords" content="Ogani, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ogani | Template</title>
+    <title>Website bán linh kiện điện tử | Template</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
@@ -22,6 +22,29 @@
     <link rel="stylesheet" href="../LayoutO/css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="../LayoutO/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="../LayoutO/css/style.css" type="text/css">
+
+    @* add *@
+    <style>
+        #img {
+            width: 200px;
+            height: 300px;
+            object-fit: contain;
+        }
+
+        .MenuTrang li {
+            display: inline;
+        }
+
+        .hover-effect {
+            transition: color 0.3s ease, text-decoration 0.3s ease;
+        }
+
+            .hover-effect:hover {
+                color: #b0b0b0; /* Màu mờ khói khi rê chuột vào */
+                text-decoration: underline;
+            }
+
+    </style>
 </head>
 
 <body>
@@ -34,14 +57,14 @@
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
-            <a href="#"><img src="../LayoutO/img/logo.png" alt=""></a>
+            <a href="#"><img src="../LayoutO/img/logoLK.png" alt=""></a>
         </div>
         <div class="humberger__menu__cart">
             <ul>
                 <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
                 <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
             </ul>
-            <div class="header__cart__price">item: <span>$150.00</span></div>
+            <div class="header__cart__price">item: <span>1500.000 VNĐ</span></div>
         </div>
         <div class="humberger__menu__widget">
             <div class="header__top__right__language">
@@ -59,7 +82,7 @@
         </div>
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
+                <li class="active"><a asp-action="Index" asp-controller="Home">Trang chủ</a></li>
                 <li><a href="./shop-grid.html">Shop</a></li>
                 <li>
                     <a href="#">Pages</a>
@@ -83,8 +106,8 @@
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                <li>Free Shipping for all Order of $99</li>
+                <li><i class="fa fa-envelope"></i> linhkien@gmail.com</li>
+                <li>Free Shipping for all Order of 100k</li>
             </ul>
         </div>
     </div>
@@ -97,8 +120,8 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                                <li>Free Shipping for all Order of $99</li>
+                                <li><i class="fa fa-envelope"></i> linhkien@gmail.com</li>
+                                <li>Free Shipping for all Order of 100k</li>
                             </ul>
                         </div>
                     </div>
@@ -131,13 +154,13 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="../LayoutO/img/logo.png" alt=""></a>
+                        <a href="./index.html"><img src="../LayoutO/img/logoLK.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li class="active"><a asp-action="Index" asp-controller="Home">Trang chủ</a></li>
                             <li><a href="./shop-grid.html">Shop</a></li>
                             <li>
                                 <a href="#">Pages</a>
@@ -159,7 +182,7 @@
                             <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
                             <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
                         </ul>
-                        <div class="header__cart__price">item: <span>$150.00</span></div>
+                        <div class="header__cart__price">item: <span>1500.000 VNĐ</span></div>
                     </div>
                 </div>
             </div>
@@ -173,27 +196,7 @@
     <section class="hero">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
-                    <div class="hero__categories">
-                        <div class="hero__categories__all">
-                            <i class="fa fa-bars"></i>
-                            <span>All departments</span>
-                        </div>
-                        <ul>
-                            <li><a href="#">Fresh Meat</a></li>
-                            <li><a href="#">Vegetables</a></li>
-                            <li><a href="#">Fruit & Nut Gifts</a></li>
-                            <li><a href="#">Fresh Berries</a></li>
-                            <li><a href="#">Ocean Foods</a></li>
-                            <li><a href="#">Butter & Eggs</a></li>
-                            <li><a href="#">Fastfood</a></li>
-                            <li><a href="#">Fresh Onion</a></li>
-                            <li><a href="#">Papayaya & Crisps</a></li>
-                            <li><a href="#">Oatmeal</a></li>
-                            <li><a href="#">Fresh Bananas</a></li>
-                        </ul>
-                    </div>
-                </div>
+                @await Component.InvokeAsync("LSPMenu")
                 <div class="col-lg-9">
                     <div class="hero__search">
                         <div class="hero__search__form">
@@ -216,11 +219,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="../LayoutO/img/hero/banner.jpg">
+                    @* add *@
+                    <div class="hero__item set-bg" data-setbg="../LayoutO/img/hero/bannerLK.jpg">
                         <div class="hero__text">
-                            <span>FRUIT FRESH</span>
-                            <h2>Vegetable <br />100% Organic</h2>
-                            <p>Free Pickup and Delivery Available</p>
+                            <span>ELECTRIC STORE</span>
+                            <h2 style="color:yellowgreen">Điện thoại, máy tính bảng, đồng hồ</h2>
+                            <p style="color:red">Free Pickup and Delivery Available</p>
                             <a href="#" class="primary-btn">SHOP NOW</a>
                         </div>
                     </div>
@@ -235,40 +239,64 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="../LayoutO/img/categories/cat-1.jpg">
-                            <h5><a href="#">Fresh Fruit</a></h5>
+                        <div class="categories__item set-bg" data-setbg="../LayoutO/img_store/DT.jpg">
+                            <h5><a href="#">Điện thoại</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="../LayoutO/img/categories/cat-2.jpg">
-                            <h5><a href="#">Dried Fruit</a></h5>
+                        <div class="categories__item set-bg" data-setbg="../LayoutO/img_store/MT.jpg">
+                            <h5><a href="#">Laptop</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="../LayoutO/img/categories/cat-3.jpg">
-                            <h5><a href="#">Vegetables</a></h5>
+                        <div class="categories__item set-bg" data-setbg="../LayoutO/img_store/PC.jpg">
+                            <h5><a href="#">Máy tính bàn</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="../LayoutO/img/categories/cat-4.jpg">
-                            <h5><a href="#">drink fruits</a></h5>
+                        <div class="categories__item set-bg" data-setbg="../LayoutO/img_store/Tablet.jpg">
+                            <h5><a href="#">Tablet</a></h5>
                         </div>
                     </div>
+
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="../LayoutO/img/categories/cat-5.jpg">
-                            <h5><a href="#">drink fruits</a></h5>
+                        <div class="categories__item set-bg" data-setbg="../LayoutO/img_store/TaiNghe.jpg">
+                            <h5><a href="#">Tai nghe</a></h5>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
     </section>
     <!-- Categories Section End -->
     <!-- Featured Section Begin -->
-            @RenderBody()
+    <section class="featured spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h2>Featured Product</h2>
+                    </div>
+                    <div class="featured__controls">
+                        <ul>
+                            <li class="active" data-filter="*">All</li>
+                            <li data-filter=".oranges">Oranges</li>
+                            <li data-filter=".fresh-meat">Fresh Meat</li>
+                            <li data-filter=".vegetables">Vegetables</li>
+                            <li data-filter=".fastfood">Fastfood</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row featured__filter">
+                @RenderBody()
+            </div>
+        </div>
+    </section>
     <!-- Featured Section End -->
     <!-- Banner Begin -->
-    <div class="banner">
+    @* <div class="banner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
@@ -283,10 +311,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> *@
     <!-- Banner End -->
     <!-- Latest Product Section Begin -->
-    <section class="latest-product spad">
+    @* <section class="latest-product spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6">
@@ -486,9 +514,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> *@
     <!-- Latest Product Section End -->
     <!-- Blog Section Begin -->
+
     <section class="from-blog spad">
         <div class="container">
             <div class="row">
@@ -502,45 +531,45 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutO/img/blog/blog-1.jpg" alt="">
+                            <img src="../LayoutO/img_store/Lap.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Cooking tips make cooking simple</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">Why should we use Iphone 14</a></h5>
+                            <p> Strong configuration, multiple function, fast </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutO/img/blog/blog-2.jpg" alt="">
+                            <img src="../LayoutO/img_store/tablet1.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">6 ways to prepare breakfast for 30</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">Samsung tablet </a></h5>
+                            <p>A bigger display to show your products and ideas,Maximize productivity with customizable Multi-Window layouts </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutO/img/blog/blog-3.jpg" alt="">
+                            <img src="../LayoutO/img_store/PC.png" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Visit the clean farm in the US</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">PC for streaming</a></h5>
+                            <p>The Streaming PC Series is designed to run the most popular games beautifully while smoothly operating a stream.The Streaming PC Series is built for quality, entry-level streams. It's an excellent build for multi-tasking, editing, and video rendering.</p>
                         </div>
                     </div>
                 </div>
@@ -555,12 +584,12 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="../LayoutO/img/logo.png" alt=""></a>
+                            <a href="./index.html"><img src="../LayoutO/img/logoLK.png" alt=""></a>
                         </div>
                         <ul>
-                            <li>Address: 60-49 Road 11378 New York</li>
+                            <li>Address:Ho Chi Minh City </li>
                             <li>Phone: +65 11.188.888</li>
-                            <li>Email: hello@colorlib.com</li>
+                            <li>Email: linhkien@gmail.com</li>
                         </ul>
                     </div>
                 </div>

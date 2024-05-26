@@ -1,0 +1,63 @@
+﻿@using WebsiteBanLinhKienDienTu15.Models
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<SanPham>
+@{
+    ViewData["Title"] = "DSSP";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh sách sản phẩm</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-info">
+            <th>
+                Tên sản phẩm
+            </th>
+            @* <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th> *@
+            <th>
+                Giá bán
+            </th>
+            <th>
+                Số lượng tồn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-danger">
+            <td>
+                @Html.DisplayFor(modelItem => item.Ten)
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaBan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuongTon)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("DSSP", new { page = page }), new
+    X.PagedList.Web.Common.PagedListRenderOptionsBase()
+    {
+    LiElementClasses = new List<String> {"page-item"},
+        PageClasses = new List<String> {"page-link"}
+    }
+)
+

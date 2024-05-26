@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\",
+  "WorkspaceRootPath": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\btl ltcsdl\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\areas\\admin\\views\\homeadmin\\dssp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\areas\\admin\\views\\homeadmin\\dssp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|d:\\websitebanlkdt15_core_mvc\\websitebanlinhkiendientu15\\websitebanlinhkiendientu15\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2F98B80-07CB-4B1B-AEFD-8E0651D0AF2F}|WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15.csproj|solutionrelative:websitebanlinhkiendientu15\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\BTL ltcsdl\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "DSSP.cshtml",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\HomeAdmin\\DSSP.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\HomeAdmin\\DSSP.cshtml",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\HomeAdmin\\DSSP.cshtml",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\HomeAdmin\\DSSP.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvzwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:59:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:42:13.591Z",
+              "WhenOpened": "2024-05-26T18:46:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:34:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-26T18:33:16.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:22:54.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:21:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanLinhKienDienTu15\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "D:\\WebsiteBanLKDT15_core_mvc\\WebsiteBanLinhKienDienTu15\\WebsiteBanLinhKienDienTu15\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "WebsiteBanLinhKienDienTu15\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:59:27.966Z",
               "EditorCaption": ""
             }
           ]

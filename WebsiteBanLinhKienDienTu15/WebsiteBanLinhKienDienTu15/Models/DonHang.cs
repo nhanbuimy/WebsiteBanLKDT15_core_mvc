@@ -15,7 +15,6 @@ namespace WebsiteBanLinhKienDienTu15.Models
         public DateTime NgayDat { get; set; }
         public string? TrangThai { get; set; }
         public int? Slsp { get; set; }
-        public double? GiaSp { get; set; }
         public int? IdKh { get; set; }
 
         public virtual KhachHang? IdKhNavigation { get; set; }
